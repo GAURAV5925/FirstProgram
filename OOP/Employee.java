@@ -1,4 +1,4 @@
-package Day7;
+package Day;
 
 import java.time.*;
 
